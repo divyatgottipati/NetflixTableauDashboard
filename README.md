@@ -1,3 +1,5 @@
+View Dashboard: https://public.tableau.com/app/profile/divya.teja.gottipati/viz/NetflixDashboard_17242731123290/Netflix
+
 This project features an interactive Tableau dashboard built using the publicly available Netflix Titles dataset (CSV). The dashboard provides insights into Netflix’s catalog of movies and TV shows by analyzing attributes such as release year, date added, genre, country, ratings, and duration.
 
 The goal of the project is to explore content trends, regional distribution, and release patterns to better understand Netflix’s global library and its evolution over time.
