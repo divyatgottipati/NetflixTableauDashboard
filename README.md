@@ -2,7 +2,8 @@ This project features an interactive Tableau dashboard built using the publicly 
 
 The goal of the project is to explore content trends, regional distribution, and release patterns to better understand Netflix’s global library and its evolution over time.
 
-🔑 Key Features
+**🔑 Key Features**
+
 Content by Type – Breakdown of Movies vs. TV Shows available on Netflix.
 
 Date Added Analysis – Trend of titles added to the platform over the years.
@@ -15,14 +16,14 @@ Geographic Spread – Country-wise production insights for Netflix titles.
 
 Ratings Overview – Viewer rating classifications (e.g., PG, TV-MA, R) across titles.
 
-📂 Dataset
+**📂 Dataset**
 Source: Netflix Titles dataset (CSV file)
 
 Contents: Title, Director, Cast, Country, Date Added, Release Year, Rating, Duration, and Listed In (Genre).
 
 Date Fields: date_added, release_year — used for time-based analysis of Netflix content trends.
 
-🛠️ Tools Used
+**🛠️ Tools Used**
 Tableau → For interactive dashboards and visualizations
 
 Excel / CSV → Data preprocessing and cleaning
@@ -38,7 +39,7 @@ Popular genres and categories
 
 Ratings distribution across Netflix’s library
 
-🚀 How to Use
+**🚀 How to Use**
 Download the Tableau workbook (.twb or .twbx) from this repository.
 
 Open it in Tableau Desktop / Tableau Public.
